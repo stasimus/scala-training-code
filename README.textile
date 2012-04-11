@@ -3,11 +3,14 @@ h2. Scala training - code
 This github project is the code used for the Scala training course. It is recommended to solve them supervised during a training session.
 
 The slides which go along with the code is kept at "Scala training slides":http://github.com/javaBin/scala-training-slides. You should check out the readme in the slide project to understand a little bit more of the background for the training class and how we performed it.
+h3.
+
+Adopted for Scala Accenture Riga camp
 
 h3. Topics
 
+
 The code has been divided into the following topics
-* Intro - a little warm up
 * First class functions - various exercises covering use of first class functions
 * Pattern matching - various types of pattern matching
 * oo-traits - exploring some of the topics around object orientation and trait support. Also a few exercises exploring syntax.
@@ -16,9 +19,7 @@ We believe these tasks are enough for day one of the course. Second day would ty
 
 h3. Solutions
 
-All the tasks have been solved in a Git branch called 'solutions'. You may also download this code directly from Github with the following link:
-
-"http://github.com/javaBin/scala-training-code/zipball/solutions":http://github.com/javaBin/scala-training-code/zipball/solutions       
+to be published
 
 h3. License
 

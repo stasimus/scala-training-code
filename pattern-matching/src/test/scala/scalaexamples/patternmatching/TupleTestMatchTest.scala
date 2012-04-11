@@ -4,12 +4,11 @@ import junit.framework.Assert._
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.junit.runners.JUnit4
-import scalaexamples.EmptyTest
 
 @RunWith(classOf[JUnit4])
-class TupleTestMatchTest extends EmptyTest {
-  
-  // @Test
+class TupleTestMatchTest {
+
+  @Test
   def matchOnTupes {
     val simpleTuple: Any = (1, "string")
 
@@ -18,8 +17,8 @@ class TupleTestMatchTest extends EmptyTest {
       case _ => sys.error("Couldnt match it")
     }
   }
-  
-  // @Test
+
+  @Test
   def matchOnTupesWithGuard {
     val simpleTuple: Any = (1, "string")
 
@@ -31,10 +30,10 @@ class TupleTestMatchTest extends EmptyTest {
     }
   }
 
-  // @Test
-  def matchOnLargerTuple{
+  @Test
+  def matchOnLargerTuple {
     val simpleTuple: Any = (1, "string", false)
-    
+
     simpleTuple match {
       // Match on the tuple, and assert with assertFalse(three)
       case (one, two, three: String) => sys.error("this is not a Tuple3 with last element Boolean")
