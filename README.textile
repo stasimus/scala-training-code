@@ -4,7 +4,7 @@ This github project is the code used for the Scala training course. It is recomm
 
 The slides which go along with the code is kept at "Scala training slides":https://github.com/stasimus/scala-training-slides. You should check out the readme in the slide project to understand a little bit more of the background for the training class and how we performed it.
 
-h3. Adopted for Scala Accenture Riga camp
+h3. Adopted for Accenture RDC Scala camp
 
 h3. Topics
 
