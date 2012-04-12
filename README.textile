@@ -2,10 +2,9 @@ h2. Scala training - code
 
 This github project is the code used for the Scala training course. It is recommended to solve them supervised during a training session.
 
-The slides which go along with the code is kept at "Scala training slides":http://github.com/javaBin/scala-training-slides. You should check out the readme in the slide project to understand a little bit more of the background for the training class and how we performed it.
-h3.
+The slides which go along with the code is kept at "Scala training slides":https://github.com/stasimus/scala-training-slides. You should check out the readme in the slide project to understand a little bit more of the background for the training class and how we performed it.
 
-Adopted for Scala Accenture Riga camp
+h3. Adopted for Scala Accenture Riga camp
 
 h3. Topics
 
